@@ -1,3 +1,4 @@
+Assignment name  : ft_popen
 Expected files   : ft_popen.c
 Allowed functions: pipe, fork, dup2, execvp, close, exit
 --------------------------------------------------------------------------------------
